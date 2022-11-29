@@ -15,9 +15,6 @@ Statistics & figures: tbd
 
 
 
-Create your own interactive online scripts using www.mybinder.org
-
-
 
 
 
