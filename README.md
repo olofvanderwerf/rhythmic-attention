@@ -4,10 +4,17 @@
 
 tbd (in review)
 
-### Links to Interactive Jupyter Notebooks:
-Data inspection: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/main?labpath=inspection_and_cleaning.ipynb)
+### Readily editable Jupyter Notebooks
 
-General analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?urlpath=%5B!%5BBinder%5D(https%3A%2F%2Fmybinder.org%2Fbadge_logo.svg)%5D(https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Folofvanderwerf%2Frhythmic-attention%2Fblob%2Fmain%2Fgeneral_analysis.ipynb%2FHEAD))
+In the spirit of Open Science, we have tried to put the accessibility threshold as low as possible. Therefore, all our analysis scripts are available below in an online viewable and instantly editable format, using Binder. See links below:
+
+Data inspection: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=inspection_and_cleaning.ipynb)
+
+General analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=general_analysis.ipynb)
+
+Preprocessing & stLSS analysis: tbd
+
+Statistics & figures: tbd
 
 
 
