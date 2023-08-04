@@ -8,13 +8,16 @@ tbd (in review)
 
 In the spirit of Open Science, we have tried to put the accessibility threshold as low as possible. Therefore, all our analysis scripts are available below in an online viewable and instantly editable format, using Binder. See links below:
 
-Data inspection: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/main?labpath=inspection_and_cleaning.ipynb)
+Figure 1 (hypothesis figure): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=hypothesis%20figure.ipynb)
+
+Data inspection: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=inspection_and_cleaning.ipynb)
 
 General analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=general_analysis.ipynb)
 
-Preprocessing & stLSS analysis: tbd
+Preprocessing & stLSS analysis: 
 
-Statistics & figures: tbd
+Statistics & figures: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=figures_and_statistics.ipynb)
+
 
 
 
