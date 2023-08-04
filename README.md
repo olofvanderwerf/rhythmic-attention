@@ -14,7 +14,7 @@ Data inspection: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybind
 
 General analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=general_analysis.ipynb)
 
-Preprocessing & stLSS analysis: 
+Preprocessing & stLSS analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=preprocessing_and_analysis.ipynb)
 
 Statistics & figures: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofvanderwerf/rhythmic-attention/HEAD?labpath=figures_and_statistics.ipynb)
 
