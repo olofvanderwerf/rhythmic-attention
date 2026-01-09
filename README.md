@@ -1,8 +1,6 @@
 # Endogenous Rhythmic Orienting of Attention Project
 
-### Link to paper:
-
-tbd (in review)
+### Find the paper [here](https://doi.org/10.1038/s41598-023-38968-z)
 
 ### Readily editable Jupyter Notebooks
 
